@@ -1,0 +1,7 @@
+/*
+Hello my name is Khaled Khouj
+This is the circle Connecting the ESP to the arduino
+*/
+#include <SoftwareSerial.h>
+SoftwareSerial myserial (5,6) ;
+// bluetooth : Tx = 5 , Rx = 6  
